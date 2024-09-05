@@ -9,7 +9,7 @@ This interactive scene is a small island, on which there is an Irish landscape e
 
 In this small island scene, the player's operation is simple and clear, and the player's gameplay is to explore and appreciate the small island. Player need to use some keys on keyboard: the W, A, S, D keys to control the run direction and the space to jump and the shift to accelerate and the ctrl to squat down and the mouse to control the perspective, then experience and play the entire interactive scene. After the player completes the island experience, press the exit key on the keyboard to exit the scene.
 
-First-person control mode setting: In order to allow players to explore and play in the environment from a first-person perspective, I found the relevant first-person controller asset from the Unity Asset Store. After downloading and importing it into the scene, adjust the height of the first-person camera to Adapt to the appropriate character height in the scene, adjust the position of the first-person controller, and set the correct starting point for the scene experience. The firstperson controller model is shown in the figure below:
+First-person control mode setting: In order to allow players to explore and play in the environment from a first-person perspective, I found the relevant first-person controller asset from the Unity Asset Store. After downloading and importing it into the scene, adjust the height of the first-person camera to Adapt to the appropriate character height in the scene, adjust the position of the first-person controller, and set the correct starting point for the scene experience. The first person controller model is shown in the figure below:
 <div align = center><img src="Island02.jpg" width="500">
 <div align = left >
 
