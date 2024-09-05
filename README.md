@@ -13,7 +13,7 @@ First-person control mode setting: In order to allow players to explore and play
 <div align = center><img src="Island02.jpg" width="500">
 <div align = left >
 
-Skybox and lighting setting: Use the Rendering light in the window column to set the skybox of the entire scene. Create a new 3D object, set it as skybox material, set this 3D object, adjust sky tint, exposure and sun size convergence, etc., so that the skybox shows the ideal effect. The visual effect of Skybox is shown in the figure below. Regarding the lighting settings of the scene, I applied my own lighting settings to make this scene achieve a suitable lighting effect
+Skybox and lighting setting: Use the Rendering light in the window column to set the skybox of the entire scene. Create a new 3D object, set it as skybox material, set this 3D object, adjust sky tint, exposure and sun size convergence, etc., so that the skybox shows the ideal effect. The visual effect of Skybox is shown in the figure below. Regarding the lighting settings of the scene, I applied my own lighting settings to make this scene achieve a suitable lighting effect.
 <div align = center><img src="Island03.jpg" width="500">
 <div align = left >
 
