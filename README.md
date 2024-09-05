@@ -2,4 +2,8 @@
  This 3D product is named The Island, an interactive scene built based on the Unity 3D environment. It can be developed into a game-type product. About the AR interactive product, I make it as an image target application.  
 
 # Overview
-This project investigates the effectiveness of binary color keying in processing visual content and examines the factors that influence the matting effect, including performance differences between 2D, 3D MRF, and MRF with motion compensation. The project builds on existing literature on Bayesian matting and employs NUKE software to construct a binary color keying system. The system is used to process five frames of images, and multidimensional tests are conducted to evaluate its performance. The project effectively explores the influence of variables and factors and identifies improved methods for enhancing the matting effect. Overall, this project provides insights into the performance of binary color keying and offers practical recommendations for improving matting effects in visual processing.
+## 3D Interactive Environment design and production
+This interactive scene is a small island, on which there is an Irish landscape exhibition hall and many beautiful landscapes, such as small zoo, ancient ruins, forests and lakes, etc.
+
+
+## AR Interactive Environment design and production 
